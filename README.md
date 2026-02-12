@@ -2,10 +2,9 @@
 I am doing BTech degree program on Computer Science Engineering (Artificial Intelligence) from Muthoot Institute of Technology and Science. 
 
 
-## 🌐 Socials:
 # 🌐 Socials:
 [![Instagram](https://img.shields.io)](https://www.instagram.com/aaryaprasad_06?igsh=MXE1Z2s2bHQ1YWF2ZA==) 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/aaryaprasad?utm_source=share_via&utm_content=profile&utm_medium=member_android).
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/aaryaprasad?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io)](mailto:aaryaprasad.06@gmail.com)
  
 
