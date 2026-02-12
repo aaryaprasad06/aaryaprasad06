@@ -3,9 +3,13 @@ I am doing BTech degree program on Computer Science Engineering (Artificial Inte
 
 
 # 🌐 Socials:
-![Gmail](https://www.readmecodegen.com/api/social-icon?name=Gmail)  
-![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin)
-![Instagram](https://www.readmecodegen.com/api/social-icon?name=Instagram)
+<a href="https://www.linkedin.com/in/aaryaprasad?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/aaryaprasad_06?igsh=MXE1Z2s2bHQ1YWF2ZA==">
+  <img src="https://img.shields.io" alt="Instagram">
+</a>
+
  
 
 # 💻 Tech Stack:
