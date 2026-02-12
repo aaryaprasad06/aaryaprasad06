@@ -4,7 +4,7 @@ I am doing BTech degree program on Computer Science Engineering (Artificial Inte
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/aaryaprasad?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io" alt="LinkedIn">
+  <img src="https://cdn-icons-png.flaticon.com/128/1384/1384031.png" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/aaryaprasad_06?igsh=MXE1Z2s2bHQ1YWF2ZA==">
   <img src="https://img.shields.io" alt="Instagram">
