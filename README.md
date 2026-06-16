@@ -55,18 +55,15 @@
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aaryaprasad06&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryaprasad06&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaprasad06&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryaprasad06&theme=radical" />
+</p>
 
 
 ### ✍️ Random Dev Quote
